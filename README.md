@@ -8,7 +8,7 @@
 |**Template Used**<br>simple|
 |**Service Type**<br>File|
 |**Metadata File**<br>metadata.xml
-|**Module Name**<br>ux402_fullscreen|
+|**Module Name**<br>fullscreenapp|
 |**Application Title**<br>Full-screen Application|
 |**Namespace**<br>student00.com.sap.training.ux402.fullscreen|
 |**UI5 Theme**<br>sap_horizon|
@@ -17,7 +17,7 @@
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## ux402_fullscreen
+## fullscreenapp
 
 A Full-screen Application
 

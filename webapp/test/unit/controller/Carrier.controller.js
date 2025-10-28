@@ -1,7 +1,7 @@
 /*global QUnit*/
 
 sap.ui.define([
-	"student00comsaptrainingfullscreenapp/ux402_fullscreen/controller/Carrier.controller"
+	"student00comsaptrainingfullscreenapp/fullscreenapp/controller/Carrier.controller"
 ], function (Controller) {
 	"use strict";
 
