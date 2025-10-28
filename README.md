@@ -10,7 +10,7 @@
 |**Metadata File**<br>metadata.xml
 |**Module Name**<br>fullscreenapp|
 |**Application Title**<br>Full-screen Application|
-|**Namespace**<br>student00.com.sap.training.ux402.fullscreen|
+|**Namespace**<br>apps.dflc.fullscreenapp|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.102.1|
 |**Enable Code Assist Libraries**<br>False|
